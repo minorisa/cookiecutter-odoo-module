@@ -1,4 +1,5 @@
 {
-  "project_name": "customer_core",
-  "project_title": "Customer Core"
+  "module_name": "partner",
+  "module_title": "Partner",
+  "author": "Jaume Planas, Minorisa, S.L."
 }
