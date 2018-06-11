@@ -33,7 +33,7 @@
         # Security
         "security/ir.model.access.csv",
         # Views
-        # "views/some_xml",
+        # "views/module_views.xml",
         # Data
         # Reports
         # Wizards
