@@ -20,9 +20,9 @@
 ##############################################################################
 
 {
-    "name": "{{cookiecutter.module_name}}",
+    "name": "{{ cookiecutter.module_name }}",
     "category": "",
-    "summary": "Module for {{cookiecutter.module_title}}",
+    "summary": "Module for {{ cookiecutter.module_title }}",
     "website": "https://www.minorisa.net",
     "version": "11.0.0.1.0",
     "author": "{{cookiecutter.author}}",
