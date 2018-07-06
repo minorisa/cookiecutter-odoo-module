@@ -3,9 +3,9 @@
    :alt: License: LGPL-3
 
 
-{{ "=" * cookiecutter.module_name|length }}
-{{cookiecutter.module_name}}
-{{ "=" * cookiecutter.module_name|length }}
+{{ "=" * cookiecutter.module_title|length }}
+{{cookiecutter.module_title}}
+{{ "=" * cookiecutter.module_title|length }}
 
 Description of the module.
 
