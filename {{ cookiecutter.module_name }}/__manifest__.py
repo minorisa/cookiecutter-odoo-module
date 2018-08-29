@@ -20,7 +20,7 @@
 ##############################################################################
 
 {
-    "name": "{{ cookiecutter.module_name }}",
+    "name": "{{ cookiecutter.module_title }}",
     "category": "",
     "summary": "Module for {{ cookiecutter.module_title }}",
     "website": "https://www.minorisa.net",
