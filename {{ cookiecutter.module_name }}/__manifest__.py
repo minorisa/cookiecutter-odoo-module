@@ -31,7 +31,7 @@
     ],
     "data": [
         # Security
-        "security/ir.model.access.csv",
+        # "security/ir.model.access.csv",
         # Views
         # "views/module_views.xml",
         # Data

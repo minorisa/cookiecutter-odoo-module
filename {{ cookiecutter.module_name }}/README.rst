@@ -4,7 +4,7 @@
 
 
 {{ "=" * cookiecutter.module_title|length }}
-{{cookiecutter.module_title}}
+{{ cookiecutter.module_title }}
 {{ "=" * cookiecutter.module_title|length }}
 
 Description of the module.
