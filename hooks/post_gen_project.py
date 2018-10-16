@@ -11,6 +11,6 @@ def remove(filepath):
         shutil.rmtree(filepath)
 
 
-if not {{cookiecutter.is_lgpl}}:
+if {{ cookiecutter.is_lgpl == 'n' }}:
     # remove top-level file inside the generated folder
     remove('LICENSE')
