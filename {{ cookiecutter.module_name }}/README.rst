@@ -1,4 +1,4 @@
-{% if cookiecutter.is_lgpl %}
+{% if cookiecutter.is_lgpl != 'n' %}
 
 .. image:: https://img.shields.io/badge/license-LGPL--3-red.png
    :target: https://www.gnu.org/licenses/lgpl
