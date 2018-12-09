@@ -22,7 +22,7 @@ Contributors
 Sponsors
 --------
 
-* `Minorisa de Sistemas, S.L. <http://www.minorisa.net>`__
+* `{{ cookiecutter.author }} <{{ cookiecutter.email }}>`__
 
 Maintainers
 -----------
