@@ -26,3 +26,7 @@ Sponsors
 
 Maintainers
 -----------
+
+.. image:: http://www.minorisa.net/wp-content/themes/minorisa/img/logo-minorisa.png
+   :alt: Minorisa, S.L.
+   :target: http://www.minorisa.net
