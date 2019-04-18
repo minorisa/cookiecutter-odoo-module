@@ -10,7 +10,6 @@ def remove(filepath):
     elif os.path.isdir(filepath):
         shutil.rmtree(filepath)
 
-
 if {{ cookiecutter.is_lgpl == 'n' }}:
     # remove top-level file inside the generated folder
     remove('LICENSE')
