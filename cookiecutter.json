@@ -1,6 +1,7 @@
 {
   "module_name": "partner",
   "module_title": "Partner",
+  "odoo_version": "12.0",
   "author": "Minorisa, S.L.",
   "email": "projectes.odoo@minorisa.net",
   "is_lgpl": "y"

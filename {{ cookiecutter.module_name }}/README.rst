@@ -1,4 +1,4 @@
-.. _{{ cookiecutter.module_name }}:
+.. _{{ cookiecutter.odoo_version }}_{{ cookiecutter.module_name }}:
 
 {{ "=" * cookiecutter.module_title|length }}
 {{ cookiecutter.module_title }}
@@ -10,7 +10,7 @@
    :alt: License: LGPL-3
 
 {% endif %}
-Description of the module.
+Addon summary.
 
 Detailed description.
 
