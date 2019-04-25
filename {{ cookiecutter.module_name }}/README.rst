@@ -1,5 +1,3 @@
-.. _{{ cookiecutter.odoo_version }}_{{ cookiecutter.module_name }}:
-
 {{ "=" * cookiecutter.module_title|length }}
 {{ cookiecutter.module_title }}
 {{ "=" * cookiecutter.module_title|length }}
