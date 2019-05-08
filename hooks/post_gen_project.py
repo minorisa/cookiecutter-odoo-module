@@ -1,7 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import os
 import shutil
-
-print(os.getcwd())  # prints /absolute/path/to/{{cookiecutter.project_slug}}
 
 
 def remove(filepath):
@@ -10,6 +11,8 @@ def remove(filepath):
     elif os.path.isdir(filepath):
         shutil.rmtree(filepath)
 
-if {{ cookiecutter.is_lgpl == 'n' }}:
-    # remove top-level file inside the generated folder
-    remove('LICENSE')
+
+if __name__ == '__main__':
+    is_lgpl = '{{ cookiecutter.is_lgpl}}'
+    if is_lgpl == 'n':
+        remove('LICENSE')
