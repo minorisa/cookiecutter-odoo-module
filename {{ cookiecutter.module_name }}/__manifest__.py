@@ -5,7 +5,7 @@
 {
     "name": "{{ cookiecutter.module_title }}",
     "category": "",
-    "summary": "Module for {{ cookiecutter.module_title }}",
+    "summary": "{{ cookiecutter.module_summary }}",
     "website": "https://www.minorisa.net",
     "version": "12.0.0.1.0",
     "author": "{{cookiecutter.author}}",
