@@ -2,10 +2,10 @@
 {{ cookiecutter.module_title }}
 {{ "=" * cookiecutter.module_title|length }}
 
-{% if cookiecutter.is_lgpl != 'n' %}
-.. image:: https://img.shields.io/badge/license-LGPL--3-red.png
-   :target: https://www.gnu.org/licenses/lgpl
-   :alt: License: LGPL-3
+{% if cookiecutter.is_agpl != 'n' %}
+.. image:: https://img.shields.io/badge/license-AGPL--3-red.png
+   :target: https://www.gnu.org/licenses/licenses.en.html#AGPL
+   :alt: License: AGPL-3
 
 {% endif %}
 {{ cookiecutter.module_summary }}

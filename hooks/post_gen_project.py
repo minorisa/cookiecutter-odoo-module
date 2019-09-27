@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
 import os
 import shutil
@@ -13,6 +12,6 @@ def remove(filepath):
 
 
 if __name__ == '__main__':
-    is_lgpl = '{{ cookiecutter.is_lgpl}}'
-    if is_lgpl == 'n':
+    is_agpl = '{{ cookiecutter.is_agpl}}'
+    if is_agpl == 'n':
         remove('LICENSE')
