@@ -10,8 +10,6 @@
 {% endif %}
 {{ cookiecutter.module_summary }}
 
-Detailed description.
-
 Usage
 =====
 
@@ -26,6 +24,6 @@ Contributors
 
 * `{{ cookiecutter.author }} <{{ cookiecutter.email }}>`__
 
-.. image:: http://www.minorisa.net/wp-content/themes/minorisa/img/logo-minorisa.png
+.. image:: http://www.minorisa.net/img/core-img/logo.png
    :alt: Minorisa, S.L.
    :target: http://www.minorisa.net
