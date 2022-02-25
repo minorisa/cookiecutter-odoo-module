@@ -1,6 +1,9 @@
 {
   "module_name": "partner",
   "module_title": "Partner",
-  "author": "Jaume Planas",
-  "email": "jaume.planas@minorisa.net"
+  "module_summary": "Short description",
+  "odoo_version": "14.0",
+  "author": "Minorisa, S.L.",
+  "email": "projectes.odoo@minorisa.net",
+  "is_agpl": "y"
 }
